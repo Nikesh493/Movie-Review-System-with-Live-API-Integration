@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+
+    box-sizing: border-box;
+}
+body{
+    background-color:#0F0E0E;
+    font-family: sans-serif;
+    padding-top: 25%;
+    padding-left: 30%;
+    padding-right: 30%;
+
+}
+
+h1{
+    color: white;
+    text-transform: capitalize;
+}
+h1:hover{
+    color: green;
+}
+.sample{
+    display: flex;
+    justify-content: center;
+    
+}
+.sample:hover{
+    background-color: aqua;
+}
